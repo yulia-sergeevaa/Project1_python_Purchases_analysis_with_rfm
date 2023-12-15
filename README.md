@@ -1,4 +1,4 @@
-# Python_project1
+# Project1_python_purchases_analysis_with_rfm
 
 В данном проекте проведем анализ пользователей онлайн-магазина.  
 Работа выполнена на Python с использованием Jupyter Notebook.
