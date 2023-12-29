@@ -29,5 +29,6 @@
 * JupyterHub
 * Python 3.7.3
 * Pandas
-* requests
-* seaborn, matplotlib
+* NumPy
+* Requests
+* Seaborn, Matplotlib
